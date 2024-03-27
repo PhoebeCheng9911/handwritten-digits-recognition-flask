@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: Arial;
+    margin: 0;
+}
+
+
+.header h1 {
+    font-size: 40px;
+}
+
+.container {
+    margin: 0 auto;
+    width: 300px;
+}
