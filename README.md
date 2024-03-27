@@ -1,4 +1,4 @@
-## Handwritten-digits-recognization
+## Handwritten-digits-recognition
 This Flask project enables the recognition of handwritten digits. It follows the MVC (Model-View-Controller) principle, comprising two main components:
 
 ### Components:
