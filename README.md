@@ -20,6 +20,7 @@ The connection between the view and model is established through a Python web se
 
 ## Example
 ![Demo](https://github.com/PhoebeCheng9911/handwritten-digits-recognization-flask/assets/90079020/6017a51f-3b9c-4e2f-a9ee-7c65ec2a290e)
+![Interface](https://github.com/PhoebeCheng9911/handwritten-digits-recognization-flask/assets/90079020/d8052e8c-be56-4d4f-b1a9-71554b89861a)
 
 
 
